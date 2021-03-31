@@ -23,3 +23,5 @@
 6. 有高并发、大数据量业务处理的实践经验者优先。
 
 后端开发工程师（P6、P7、P8），Base 上海/杭州。
+
+简历请投递至：zhangchenghui.zch@antgroup.com
