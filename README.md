@@ -25,3 +25,5 @@
 后端开发工程师（P6、P7、P8），Base 上海/杭州。
 
 简历请投递至：zhangchenghui.zch@antgroup.com
+
+加我微信：295502545
